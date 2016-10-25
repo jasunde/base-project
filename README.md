@@ -6,5 +6,5 @@ This file holds the html for the web browser. In the head of the document it lin
 ## app.js
 This file holds all of the JavaScript to be executed on the webpage.
 
-## stylesheet.CSS
+## stylesheet.css
 This file contains the styling that will affect the appearance of the content in the html file.
